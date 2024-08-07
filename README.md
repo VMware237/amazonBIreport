@@ -3,10 +3,6 @@
 ## Overview
 A Power BI report designed to analyze retail sales data across various product categories, focusing on sales performance, customer engagement, and profitability metrics. The project emphasizes data integration, advanced analytics, and interactive reporting to uncover critical business insights that inform strategic decision-making.
 
-## Key Achievements
-- High Accuracy Across Models: Achieved impressive accuracy rates in predicting diverse diseases, ensuring reliable and actionable health insights.
-- Advanced Data Handling: Optimized feature selection and data preprocessing using techniques like SMOTE and RandomOverSampler, significantly enhancing model performance and reliability.
-
 ## Technical Highlights
 
 **Data Sources**
@@ -32,3 +28,5 @@ A Power BI report designed to analyze retail sales data across various product c
 
 ## Impact
 This report serves as a strategic tool for retail managers, data analysts, and business strategists looking to enhance data-driven decision-making processes. Users can interact with the report to identify sales patterns, evaluate product performance, and strategize marketing efforts based on comprehensive data analysis.
+
+<img width="1453" alt="Screenshot 2024-08-07 at 4 37 13 PM" src="https://github.com/user-attachments/assets/8c90ddd0-0c89-4133-b11d-ee5341cdafb4">
