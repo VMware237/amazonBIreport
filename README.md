@@ -30,3 +30,8 @@ A Power BI report designed to analyze retail sales data across various product c
 This report serves as a strategic tool for retail managers, data analysts, and business strategists looking to enhance data-driven decision-making processes. Users can interact with the report to identify sales patterns, evaluate product performance, and strategize marketing efforts based on comprehensive data analysis.
 
 <img width="1453" alt="Screenshot 2024-08-07 at 4 37 13 PM" src="https://github.com/user-attachments/assets/8c90ddd0-0c89-4133-b11d-ee5341cdafb4">
+<img width="1454" alt="Screenshot 2024-08-07 at 4 37 54 PM" src="https://github.com/user-attachments/assets/805d946f-dfc2-4eaa-8958-6e4c79a4196e">
+<img width="1452" alt="Screenshot 2024-08-07 at 4 38 18 PM" src="https://github.com/user-attachments/assets/661b7e97-375a-486d-931b-1deba02f2cfd">
+<img width="1411" alt="Screenshot 2024-08-07 at 4 38 44 PM" src="https://github.com/user-attachments/assets/038aa3ec-6115-41bf-bd17-8434878eaac0">
+
+
